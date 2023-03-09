@@ -1,24 +1,24 @@
 section h2 {
     text-align:center;
-    color:blueviolet;
+    color:black;
     border:2px solid black;
-    padding:8px;
-    font-size:10px;
-    text-shadow:10px 5px white;
-    background-color:aquamarine;
+    padding:15px;
+    font-size:larger;
+    text-shadow:10px 10px 15px black;
+    background-color:white;
     text-transform:uppercase;
 }
 
 section {
     display:flex;
-    flex-direction:column;
-    align-items:center;
+    flex-direction:row;
+    align-items:normal;
 
 }
 
 section img {
-    width:50%;
-    height:50%;
+    width:20%;
+    height:20%;
 }
 figcaption {
     margin-top:10px;
