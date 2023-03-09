@@ -5,7 +5,7 @@ footer {
     bottom:0;
     position:relative;
     padding:10px;
-    font-size:medium;
+    width:auto
 }
 footer a {
     display:flex;
@@ -14,5 +14,5 @@ footer a {
 footer p{
     text-decoration-color: red;
     font-weight: bold;
-   
+    font-size: medium;
 }
