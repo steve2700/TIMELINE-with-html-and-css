@@ -1,0 +1,36 @@
+form {
+    background-color:azure;
+    border:1px solid black;
+    padding:15px;
+    border-radius:5px;
+    width:50%;
+}
+label {
+    display:block;
+    margin-bottom:10px;
+    font-weight:bold;
+}
+input[type="text"],
+textarea,
+select,
+input[type="number"] {
+    width:100%;
+    padding:10px;
+    margin-bottom:20px;
+    border:1px solid black;
+    border-radius:5px;
+}
+button[type="submit"]{
+    background-color:red;
+    color:white;
+    font-size:10px;
+    border:2px solid black;
+
+}
+
+
+
+
+
+
+
