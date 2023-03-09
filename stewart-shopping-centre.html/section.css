@@ -1,19 +1,17 @@
 section h2 {
     text-align:center;
     color:black;
-    border:2px solid black;
-    padding:15px;
     font-size:larger;
     text-shadow:10px 10px 30px black;
-    background-color:white;
+    background-color:red;
     text-transform:uppercase;
-    border-radius:5px;
+    font-weight:bolder;
 }
 
 section {
     display:flex;
     flex-direction:column;
-    align-items:normal;
+    align-items:center;
 
 }
 
