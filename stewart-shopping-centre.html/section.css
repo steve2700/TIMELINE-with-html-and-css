@@ -4,14 +4,15 @@ section h2 {
     border:2px solid black;
     padding:15px;
     font-size:larger;
-    text-shadow:10px 10px 15px black;
+    text-shadow:10px 10px 30px black;
     background-color:white;
     text-transform:uppercase;
+    border-radius:5px;
 }
 
 section {
     display:flex;
-    flex-direction:row;
+    flex-direction:column;
     align-items:normal;
 
 }
