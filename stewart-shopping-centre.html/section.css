@@ -2,9 +2,9 @@ section h2 {
     text-align:center;
     color:blueviolet;
     border:2px solid black;
-    padding:5px;
-    text-shadow:3px 2px white;
+    padding:8px;
     font-size:10px;
+    text-shadow:10px 5px white;
     background-color:aquamarine;
     text-transform:uppercase;
 }
@@ -17,11 +17,12 @@ section {
 }
 
 section img {
-    max-width:100%
+    width:50%;
+    height:50%;
 }
 figcaption {
     margin-top:10px;
     font-weight:bold;
-    font-size:18px;
+    font-size:25px;
     color:black
 }
