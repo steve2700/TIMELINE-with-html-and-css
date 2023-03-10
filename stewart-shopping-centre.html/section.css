@@ -29,5 +29,5 @@ Section p {
     font-size:large;
     font-weight:bolder;
     text-shadow:4px 4px 5px;
-    
+    text-transform:uppercase;
 }
